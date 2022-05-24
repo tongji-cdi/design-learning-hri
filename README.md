@@ -1,4 +1,6 @@
 # Knowledge-learning HRI design toolkit
+[![DOI](https://zenodo.org/badge/458226104.svg)](https://zenodo.org/badge/latestdoi/458226104)
+
 Open data for our HCII 2022 paper _Designing Social Interactions for Learning Personalized Knowledge in Service Robots_.
 
 This repository includes:
